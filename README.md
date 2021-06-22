@@ -1,1 +1,1 @@
-# mlwithnumpy
+# ML with NumPy
